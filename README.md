@@ -74,7 +74,7 @@ The committee may review any member’s membership if they are prosecuted for a 
 
 ## Rule 5
 
-The Rules of the Charity may be altered, added to or rescinded at an annual general meeting (AGM) or, in special circumstances, at a special meeting held for the purpose. These meetings will be conduted in accordance with Rule 6. Only members of the Charity can vote.
+The Rules of the Charity may be altered, added to or rescinded at an annual general meeting (AGM) or, in special circumstances, at a special meeting held for the purpose. These meetings will be conducted in accordance with Rule 6. Only members of the Charity can vote.
 
 In either case, a vote is taken on each modification to the Rules, with a two-thirds majority indicating the successful modification to the Rules.
 
@@ -120,7 +120,8 @@ At a General Meeting, quorum shall be 50% of the Charity membership, or 15 peopl
 
 ### Rule 6b
 
-Committee Meetings
+### Committee Meetings
+
 The committee shall meet on a regular basis (at least 10 times a year), to discuss matters pertaining to the ongoing running of the Charity.  Only committee members may vote at a Committee Meeting, with quorum being four members of the committee.
 
 If quorum is not reached after two attempts to convene a meeting, three Officers of the Charity - at least one of which must be the president or vice-president - may temporarily make quorum.  In this event, any decisions made must be unanimous, and the exercise of this power must be announced to the membership at each instance.
@@ -143,7 +144,7 @@ All officers must qualify under section 16 of the Charities Act, and correspondi
 
 The common seal of the Charity shall be held with the secretary.
 
-The seal can be used to verify documents on behalf of the Charity, either by the committee or officers of the committee at an AGM or special meeting, or by the president of the Charity if they deems it appropriate.
+The seal can be used to verify documents on behalf of the Charity, either by the committee or officers of the committee at an AGM or special meeting, or by the president of the Charity if they deem it appropriate.
 
 ## Rule 9
 
