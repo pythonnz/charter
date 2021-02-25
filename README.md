@@ -62,15 +62,13 @@ A member can be expelled from the Charity at the decision of the committee, for 
 * Any illegal activities conducted within the Charity.
 * Attempting to exploit or misuse the Charity or members of the Charity for pecuniary gain.
 
-If a member of the Committee is expelled from the Charity under this rule, a by-election will be held to fill that position, unless the AGM is due to occur within two calendar months.
-
 A former member who has been expelled from the Charity for serious misconduct can only be re-admitted if a General Meeting approves that member’s return, by a majority vote of two thirds.
 
 Any committee member who is found to be in breach of the Code of Conduct will immediately cease their office, and will be ineligible to sit on the committee for a period of two years, to be counted from the following AGM.  A by-election will be held to fill the vacated position, unless the AGM is due to occur within two calendar months.
 
-The committee may review any member’s membership if they are prosecuted for a crime.
-
 "Serious misconduct" is held at the discretion of the committee of the Charity, and any grievances should be brought before the committee.
+
+The committee may review any member’s membership if they are prosecuted for a crime.
 
 ## Rule 5
 
