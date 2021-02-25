@@ -84,6 +84,8 @@ The provisions and effect of this clause shall not be removed from this document
 
 ## Rule 6
 
+**Meetings**
+
 Any meeting - including the AGM - may be conducted either in-person or online, and either synchronously or asynchronously, or any combination thereof.  The venue or method selected for the meeting must be clearly expressed beforehand and in all invitations.
 
 A tentative agenda for the meeting will be circulated to all members of the Charity in the week before each meeting, and the resulting minutes will be similarly circulated as soon as practical after the meeting.
@@ -92,9 +94,9 @@ A tentative agenda for the meeting will be circulated to all members of the Char
 
 **General Meetings**
 
-The Annual General Meeting (AGM) will be held in the first half of the financial year.  Special General Meetings (SGM) can occur at any time of the year.
-
 General Meetings must be announced to all current members via the Charity's direct email facilities, as well as any other current means of membership communication.  The first announcement must be made at least one month before the meeting; reminders shall be sent out at suitable intervals prior to the event using the same channels.
+
+The Annual General Meeting (AGM) will be held in the first half of the financial year.  Special General Meetings (SGM) can occur at any time of the year.
 
 An AGM will cover topics including but not limited to:
 
@@ -111,8 +113,10 @@ An SGM can be called to conduct any urgent Charity business that cannot wait unt
 * disciplinary action to be taken against a Charity member.
 * changes to the charter or rules of the Charity.
 * any other matters requiring the attention of all members of the society which cannot wait until the next AGM.
-* An SGM can be called at the request of any committee member.  Any member of the Charity may call an SGM if backed by at least 10% of the Charity's membership.
-* Any decisions to be made at a General Meeting will be made by vote.  The method of voting will be defined in the announcement of the General Meeting.  Only paid members in the current financial year are eligible to vote.
+
+An SGM can be called at the request of any committee member.  Any member of the Charity may call an SGM if backed by at least 10% of the Charity's membership.
+
+Any decisions to be made at a General Meeting will be made by vote.  The method of voting will be defined in the announcement of the General Meeting.  Only paid members in the current financial year are eligible to vote.
 
 A simple majority will indicate the success of any motion put to vote, except in the cases specified in Rule 5. The president of the Charity (or the vice president in their absence) has a casting vote.  In the event of a draw, the motion must be deferred to a following General Meeting.
 
