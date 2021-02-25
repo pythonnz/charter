@@ -86,6 +86,8 @@ The provisions and effect of this clause shall not be removed from this document
 
 Any meeting - including the AGM - may be conducted either in-person or online, and either synchronously or asynchronously, or any combination thereof.  The venue or method selected for the meeting must be clearly expressed beforehand and in all invitations.
 
+A tentative agenda for the meeting will be circulated to all members of the Charity in the week before each meeting, and the resulting minutes will be similarly circulated as soon as practical after the meeting.
+
 ### Rule 6a
 
 General Meetings
