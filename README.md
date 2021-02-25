@@ -10,10 +10,10 @@ The Charity is being established with following purpose and aims in mind:
 
 ### Rule 2a
 
-* To advance education by providing meetups, courses, conferences, and written information around the Python programming language to the public.
-* As a support community for the Python programming language.
-* As a vector for the promotion of the Python programming language within non-profit, commercial and industrial organisations.
-* As a vector for the promotion of the Python programming language within government bodies, including but not limited to educational bodies of all levels, medical bodies, local and national government, and political parties.
+* To advance education by providing meetups, courses, conferences, and written information around the Python programming language to the public
+* As a support community for the Python programming language
+* As a vector for the promotion of the Python programming language within non-profit, commercial and industrial organisations
+* As a vector for the promotion of the Python programming language within government bodies, including but not limited to educational bodies of all levels, medical bodies, local and national government, and political parties
 
 ### Rule 2b
 
@@ -23,11 +23,11 @@ The Charity is being established with following purpose and aims in mind:
 
 The Charity aims to organise an annual conference ("Kiwi PyCon"). This means:
 
-* The Charity pays for any costs associated with hosting the conference website.
-* The Charity committee appoints an organising committee for each conference.
-* The funds of the Charity may, at the Charity committee's discretion, be used for the purposes of organising the conference.
-* Any profits from running the conference shall be retained by the Charity.
-* The Charity committee shall override decisions by the organising committee where it deems these to not adhere to the Charity's charter.
+* The Charity pays for any costs associated with hosting the conference website
+* The Charity committee appoints an organising committee for each conference
+* The funds of the Charity may, at the Charity committee's discretion, be used for the purposes of organising the conference
+* Any profits from running the conference shall be retained by the Charity
+* The Charity committee shall override decisions by the organising committee where it deems these to not adhere to the Charity's charter
 
 ### Rule 2d
 
@@ -57,20 +57,18 @@ A member can choose to leave the Charity at any time, without refund of their fe
 
 A member can be expelled from the Charity at the decision of the committee, for reasons including but not limited to:
 
-* Serious misconduct of a personal or professional nature towards another member of the Python community. This extends to any other person providing services either to the Charity or to members on behalf of the Charity.
-* Serious misconduct of a personal or professional nature towards an external body, while acting as a representative of the Charity.
-* Any illegal activities conducted within the Charity.
-* Attempting to exploit or misuse the Charity or members of the Charity for pecuniary gain.
-
-If a member of the Committee is expelled from the Charity under this rule, a by-election will be held to fill that position, unless the AGM is due to occur within two calendar months.
+* Serious misconduct of a personal or professional nature towards another member of the Python community. This extends to any other person providing services either to the Charity or to members on behalf of the Charity
+* Serious misconduct of a personal or professional nature towards an external body, while acting as a representative of the Charity
+* Any illegal activities conducted within the Charity
+* Attempting to exploit or misuse the Charity or members of the Charity for pecuniary gain
 
 A former member who has been expelled from the Charity for serious misconduct can only be re-admitted if a General Meeting approves that member’s return, by a majority vote of two thirds.
 
 Any committee member who is found to be in breach of the Code of Conduct will immediately cease their office, and will be ineligible to sit on the committee for a period of two years, to be counted from the following AGM.  A by-election will be held to fill the vacated position, unless the AGM is due to occur within two calendar months.
 
-The committee may review any member’s membership if they are prosecuted for a crime.
-
 "Serious misconduct" is held at the discretion of the committee of the Charity, and any grievances should be brought before the committee.
+
+The committee may review any member’s membership if they are prosecuted for a crime.
 
 ## Rule 5
 
@@ -86,33 +84,39 @@ The provisions and effect of this clause shall not be removed from this document
 
 ## Rule 6
 
+**Meetings**
+
 Any meeting - including the AGM - may be conducted either in-person or online, and either synchronously or asynchronously, or any combination thereof.  The venue or method selected for the meeting must be clearly expressed beforehand and in all invitations.
+
+A tentative agenda for the meeting will be circulated to all members of the Charity in the week before each meeting, and the resulting minutes will be similarly circulated as soon as practical after the meeting.
 
 ### Rule 6a
 
-General Meetings
-
-The Annual General Meeting (AGM) will be held in the first half of the financial year.  Special General Meetings (SGM) can occur at any time of the year.
+**General Meetings**
 
 General Meetings must be announced to all current members via the Charity's direct email facilities, as well as any other current means of membership communication.  The first announcement must be made at least one month before the meeting; reminders shall be sent out at suitable intervals prior to the event using the same channels.
 
+The Annual General Meeting (AGM) will be held in the first half of the financial year.  Special General Meetings (SGM) can occur at any time of the year.
+
 An AGM will cover topics including but not limited to:
 
-* The state of the Charity with respect to membership changes.
-* Methods to improve the standing or membership of the Charity in the following year.
-* The state of the Charity with respect to its finances.
-* Results of actions conducted by the Charity pursuant to the purposes and aims of the Charity outlined in Rule 2 above.
-* Methods to fulfill the purposes and aims of the Charity as outlined in Rule 2 above.
-* Changes to the charter or rules of the Charity.
+* The state of the Charity with respect to membership changes
+* Methods to improve the standing or membership of the Charity in the following year
+* The state of the Charity with respect to its finances
+* Results of actions conducted by the Charity pursuant to the purposes and aims of the Charity outlined in Rule 2 above
+* Methods to fulfill the purposes and aims of the Charity as outlined in Rule 2 above
+* Changes to the charter or rules of the Charity
 
 An SGM can be called to conduct any urgent Charity business that cannot wait until the AGM, and is of such significance that it requires the involvement of the all the members, including but not limited to:
 
-* conducting any financial activity which cannot wait until the next general meeting.
-* disciplinary action to be taken against a Charity member.
-* changes to the charter or rules of the Charity.
-* any other matters requiring the attention of all members of the society which cannot wait until the next AGM.
-* An SGM can be called at the request of any committee member.  Any member of the Charity may call an SGM if backed by at least 10% of the Charity's membership.
-* Any decisions to be made at a General Meeting will be made by vote.  The method of voting will be defined in the announcement of the General Meeting.  Only paid members in the current financial year are eligible to vote.
+* conducting any financial activity which cannot wait until the next general meeting
+* disciplinary action to be taken against a Charity member
+* changes to the charter or rules of the Charity
+* any other matters requiring the attention of all members of the society which cannot wait until the next AGM
+
+An SGM can be called at the request of any committee member.  Any member of the Charity may call an SGM if backed by at least 10% of the Charity's membership.
+
+Any decisions to be made at a General Meeting will be made by vote.  The method of voting will be defined in the announcement of the General Meeting.  Only paid members in the current financial year are eligible to vote.
 
 A simple majority will indicate the success of any motion put to vote, except in the cases specified in Rule 5. The president of the Charity (or the vice president in their absence) has a casting vote.  In the event of a draw, the motion must be deferred to a following General Meeting.
 
@@ -120,7 +124,7 @@ At a General Meeting, quorum shall be 50% of the Charity membership, or 15 peopl
 
 ### Rule 6b
 
-### Committee Meetings
+**Committee Meetings**
 
 The committee shall meet on a regular basis (at least 10 times a year), to discuss matters pertaining to the ongoing running of the Charity.  Only committee members may vote at a Committee Meeting, with quorum being four members of the committee.
 
@@ -130,7 +134,7 @@ If a Charity member wishes to raise an issue at a committee meeting, they can gi
 
 ## Rule 7
 
-The officers of the Charity shall consist of a president, vice-president, secretary, and treasurer. The committee of the Charity shall include the above named officers, as well as 3 (three) extra members.
+The officers of the Charity shall consist of a president, vice-president, secretary, and treasurer. The committee of the Charity shall include the above named officers, as well as up to 3 (three) extra members.
 
 The officers and committee members shall be elected at an AGM or at a special meeting called for this purpose.
 
