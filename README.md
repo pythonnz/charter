@@ -134,7 +134,7 @@ If a Charity member wishes to raise an issue at a committee meeting, they can gi
 
 ## Rule 7
 
-The officers of the Charity shall consist of a president, vice-president, secretary, and treasurer. The committee of the Charity shall include the above named officers, as well as 3 (three) extra members.
+The officers of the Charity shall consist of a president, vice-president, secretary, and treasurer. The committee of the Charity shall include the above named officers, as well as up to 3 (three) extra members.
 
 The officers and committee members shall be elected at an AGM or at a special meeting called for this purpose.
 
