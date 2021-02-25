@@ -90,7 +90,7 @@ A tentative agenda for the meeting will be circulated to all members of the Char
 
 ### Rule 6a
 
-General Meetings
+**General Meetings**
 
 The Annual General Meeting (AGM) will be held in the first half of the financial year.  Special General Meetings (SGM) can occur at any time of the year.
 
@@ -120,7 +120,7 @@ At a General Meeting, quorum shall be 50% of the Charity membership, or 15 peopl
 
 ### Rule 6b
 
-### Committee Meetings
+**Committee Meetings**
 
 The committee shall meet on a regular basis (at least 10 times a year), to discuss matters pertaining to the ongoing running of the Charity.  Only committee members may vote at a Committee Meeting, with quorum being four members of the committee.
 
