@@ -172,4 +172,4 @@ In this meeting, two proposals shall be voted upon: that the purpose is compatib
 
 If upon the winding up or dissolution of the New Zealand Python User Group (Incorporated) there remains after the satisfaction of all its debts and liabilities any property whatsoever the same shall not be paid to or distributed among the members of the Charity but shall be given or transferred to some other organisation or body having charitable objects similar to the objects of the New Zealand Python User Group (Incorporated), or to some other charitable organisation or purpose, within New Zealand.
 
-_as of 16th September 2020
+Charter current as of 5th November 2020
