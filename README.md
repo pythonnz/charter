@@ -41,7 +41,7 @@ Rule 2d, and the New Zealand Python User Group Code of Conduct, shall be applied
 
 In order to join the Charity one must complete a membership form, and payment for the yearly fees must be received within 90 days of the submission of the form. Failure to pay the fees within this time will result in the membership, and all membership benefits, being revoked. The fee is determined by the committee of the Charity and can be changed as the needs of the Charity change.
 
-Membership is for the current financial year of the Charity. This is presently defined as being the year from the 1st of September to the 31st August.
+Membership is for the current financial year of the Charity. This is presently defined as being the year from the 1st of January to the 31st of December.
 
 The Charity may designate certain benefits, areas, events, or other resources as Members Benefits, and restrict access to these for the benefit of current members.
 
@@ -64,7 +64,7 @@ A member can be expelled from the Charity at the decision of the committee, for 
 
 A former member who has been expelled from the Charity for serious misconduct can only be re-admitted if a General Meeting approves that member’s return, by a majority vote of two thirds.
 
-Any committee member who is found to be in breach of the Code of Conduct will immediately cease their office, and will be ineligible to sit on the committee for a period of two years, to be counted from the following AGM.  A by-election will be held to fill the vacated position, unless the AGM is due to occur within two calendar months.
+In addition to consequences of serious misconduct by a member, a committee member who is found to be in breach of the Code of Conduct at any level will immediately cease their office, and will be ineligible to sit on the committee for a period of two years, to be counted from the following AGM. If the member is President, Vice President, Treasurer or Secretary then a by-election will be held to fill the vacated position, unless the AGM is due to occur within two calendar months. If the period is less than two months the committee will nominate a replacement.
 
 "Serious misconduct" is held at the discretion of the committee of the Charity, and any grievances should be brought before the committee.
 
@@ -116,7 +116,7 @@ An SGM can be called to conduct any urgent Charity business that cannot wait unt
 
 An SGM can be called at the request of any committee member.  Any member of the Charity may call an SGM if backed by at least 10% of the Charity's membership.
 
-Any decisions to be made at a General Meeting will be made by vote.  The method of voting will be defined in the announcement of the General Meeting.  Only paid members in the current financial year are eligible to vote.
+Any decisions to be made at a General Meeting will be made by vote.  The method of voting will be defined in the announcement of the General Meeting.  Only members who have paid their membership dues for the current financial year, OR were paid members in good standing in the financial year immediately preceding the General Meeting, are eligible to vote.
 
 A simple majority will indicate the success of any motion put to vote, except in the cases specified in Rule 5. The president of the Charity (or the vice president in their absence) has a casting vote.  In the event of a draw, the motion must be deferred to a following General Meeting.
 
@@ -134,10 +134,10 @@ If a Charity member wishes to raise an issue at a committee meeting, they can gi
 
 ## Rule 7
 
-The officers of the Charity shall consist of a president, vice-president, secretary, and treasurer. The committee of the Charity shall include the above named officers, as well as up to 3 (three) extra members.
+The officers of the Charity shall consist of a president, vice-president, secretary, and treasurer. The committee of the Charity shall include the above named officers, as well as up to 4 (four) extra members.
 
 The officers and committee members shall be elected at an AGM or at a special meeting called for this purpose.
-
+thr
 Temporary replacements can be appointed at the discretion of the committee.
 
 The standard term of appointment is one year, or until the next AGM, whichever is shorter. If a temporary position is appointed it will arise for reappointment with the other positions at the next AGM.
