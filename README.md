@@ -137,7 +137,7 @@ If a Charity member wishes to raise an issue at a committee meeting, they can gi
 The officers of the Charity shall consist of a president, vice-president, secretary, and treasurer. The committee of the Charity shall include the above named officers, as well as up to 4 (four) extra members.
 
 The officers and committee members shall be elected at an AGM or at a special meeting called for this purpose.
-thr
+
 Temporary replacements can be appointed at the discretion of the committee.
 
 The standard term of appointment is one year, or until the next AGM, whichever is shorter. If a temporary position is appointed it will arise for reappointment with the other positions at the next AGM.
